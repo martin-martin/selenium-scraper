@@ -2,6 +2,6 @@ certifi==2018.4.16
 chardet==3.0.4
 chromedriver==2.24.1
 idna==2.6
-requests==2.18.4
+requests==2.20.0
 selenium==3.12.0
 urllib3==1.24.2
